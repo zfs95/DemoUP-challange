@@ -1,0 +1,9 @@
+com\example\demoUpClipster\serviceImpl\ClassicSort.class
+com\example\demoUpClipster\DemoUpClipsterApplication.class
+com\example\demoUpClipster\service\SortAlgorithm.class
+com\example\demoUpClipster\serviceImpl\Microbenchmark.class
+com\example\demoUpClipster\serviceImpl\StandardSortAlgorithm.class
+com\example\demoUpClipster\model\File.class
+com\example\demoUpClipster\model\File$FileBuilder.class
+com\example\demoUpClipster\serviceImpl\LegacySort.class
+com\example\demoUpClipster\serviceImpl\MergeSort.class
